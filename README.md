@@ -3,7 +3,7 @@
 [![Check Markdown links](https://github.com/riscv/learn/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/riscv/learn/actions/workflows/action.yml)
 
 <!-- last_verified_all:start -->
-> 🔴 Links last verified: **2026-11-10** — OK: 235, Redirects: 1, Broken: 3
+> 🔴 Links last verified: **2026-11-11** — OK: 235, Redirects: 1, Broken: 3
 <!-- last_verified_all:end -->
 
 A community-driven, continuously updated list of RISC-V learning resources: courses, books, tools, open cores, boards and papers, organized by topic and level.
